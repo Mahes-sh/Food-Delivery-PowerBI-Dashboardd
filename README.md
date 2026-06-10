@@ -65,17 +65,26 @@ This project analyzes food sales data using Power BI to identify sales trends, p
 
 ## Dashboard Screenshots
 
-### Dashboard Overview
+### Advance Insight
+![Advance Insight](Screenshots/Advance Insight.png)
 
-(Add screenshot here)
+### Customer Analytics
+ ![Customer Analytics](Screenshots/Customer Analytics.png)
 
-### Sales Analysis
 
-(Add screenshot here)
+### Delivery and Operation
+![Delivery and Operation](Screenshots/Delivery and Operation.png)
 
-### Profit Analysis
+### Executive Overview
+![Executive Overview](Screenshots/Executive Overview.png)
 
-(Add screenshot here)
+### Restaurant Performance
+![Restaurant Performance](Screenshots/Restaurant Performance.png)
+
+### Restaurant
+![Restaurant Performance](Screenshots/Restaurant.png)
+
+
 
 ## Repository Structure
 
